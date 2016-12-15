@@ -14,3 +14,11 @@ Question: What do you call an elephant with a machine gun?
 ...
 
 Answer: Sir.
+
+
+Meanwhile Ted and Alice are working on something else while Bob and carol continue working!
+
+Joke: What do you call an alligator in a vest?
+-------
+-------
+Answer: an Investigator
