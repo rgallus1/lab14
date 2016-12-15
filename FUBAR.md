@@ -1,5 +1,8 @@
 <h1>Creation of FUBAR</h1>
 
+<p> BOB AND CAROL ARE DOING SOME AWESOME STUFF AND MESSING IT ALL UP <p>
+=======
+
 Woo hoo!!!!! Bob and I are doing some epic work on this branch1 because we are awesome!!!!!
 
 Furthermore, we are awesomely funny.
@@ -22,3 +25,4 @@ Joke: What do you call an alligator in a vest?
 -------
 -------
 Answer: an Investigator
+
