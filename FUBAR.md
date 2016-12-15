@@ -26,3 +26,6 @@ Joke: What do you call an alligator in a vest?
 -------
 Answer: an Investigator
 
+12/15 Alice & Bob
+What happens to a frog's car when it breaks down?
+It gets toad away. -
