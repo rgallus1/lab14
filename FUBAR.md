@@ -26,6 +26,28 @@ Joke: What do you call an alligator in a vest?
 -------
 Answer: an Investigator
 
+<<<<<<< HEAD
 12/15 Alice & Bob
 What happens to a frog's car when it breaks down?
 It gets toad away. -
+=======
+Ted and Carol are now working together!
+
+They're pretty cool!!!!
+
+We are working... working. Lots of work!
+
+This feature's gonna rock!
+
+
+Knock knock.
+
+Who's there?
+
+Interrupting cow.
+
+Interrupting ----
+
+
+MOOOOOOOO!!!!!!
+>>>>>>> a301bcdc40addb507996fd78e5a926053e7376a6
