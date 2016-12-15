@@ -26,3 +26,22 @@ Joke: What do you call an alligator in a vest?
 -------
 Answer: an Investigator
 
+Ted and Carol are now working together!
+
+They're pretty cool!!!!
+
+We are working... working. Lots of work!
+
+This feature's gonna rock!
+
+
+Knock knock.
+
+Who's there?
+
+Interrupting cow.
+
+Interrupting ----
+
+
+MOOOOOOOO!!!!!!
